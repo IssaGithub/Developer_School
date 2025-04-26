@@ -1,0 +1,130 @@
+Sehr gerne — das klingt nach einer richtig guten Idee, und ich freu mich, dir dabei zu helfen! Ich stelle dir mal einen strukturierten Lern- und Umsetzungsplan für deinen Bekannten zusammen, der ihn vom Anfänger zum Website-Entwickler bringt, sodass er später eigene Projekte umsetzen und vielleicht auch Kundenwebsites bauen kann.
+
+---
+
+## 📌 Lern- und Umsetzungsplan: **Website-Entwickler werden**
+
+### **Phase 1: Grundlagen der Webentwicklung (4-6 Wochen)**
+**Ziele:**
+- Verstehen, wie Websites funktionieren  
+- Grundlagen von HTML, CSS und JavaScript lernen
+
+**Themen & Tools:**
+- Was ist das Internet, Server, Browser, Hosting?
+- **HTML5:** Aufbau einer Webseite, Überschriften, Absätze, Listen, Bilder, Links, Formulare
+- **CSS3:** Farben, Abstände, Schriftarten, Layout mit Flexbox und Grid
+- **Grundlagen JavaScript:** Variablen, Schleifen, Funktionen, DOM-Manipulation
+
+**Übungen/Projekte:**
+- Eigene kleine Webseite (z.B. „Über mich“ oder „Portfolio“) bauen
+- Ein Kontaktformular erstellen (nur optisch, ohne Funktion)
+
+**Empfohlene Tools:**
+- Visual Studio Code  
+- CodePen oder JSFiddle zum Ausprobieren
+
+---
+
+### **Phase 2: Praktische Webprojekte & Mobile First (4-6 Wochen)**
+**Ziele:**
+- Responsive Webdesign umsetzen  
+- Mit echten Layouts arbeiten  
+- Design-Grundlagen verstehen  
+
+**Themen & Tools:**
+- CSS Frameworks: **Tailwind CSS** oder **Bootstrap**
+- **Mobile First Ansatz**
+- Einfache Website-Layouts nachbauen (z.B. Airbnb oder Apple)
+- Bildergalerien, Navigationsmenüs, Footer
+
+**Übungen/Projekte:**
+- Landingpage für ein fiktives Produkt bauen  
+- Ein Portfolio mit verschiedenen Unterseiten bauen
+
+**Empfohlene Tools:**
+- Figma (kostenlos, für Design-Übungen)
+- Tailwind Play (für Tailwind CSS Tests)
+
+---
+
+### **Phase 3: Webseiten mit Funktion (4-6 Wochen)**
+**Ziele:**
+- Interaktive Elemente einbauen  
+- Formulare validieren  
+- Mit einer API arbeiten
+
+**Themen & Tools:**
+- Fortgeschrittenes JavaScript (Events, JSON, Fetch API)
+- Einbindung von Drittanbieterdiensten (z.B. Google Maps, OpenWeather API)
+- Einfache Formularverarbeitung (z.B. mit Formspree oder EmailJS)
+
+**Übungen/Projekte:**
+- Kontaktformular mit Validierung und Versand  
+- Wetter-App mit OpenWeather API  
+- kleine ToDo-Liste
+
+---
+
+### **Phase 4: CMS & WordPress (4 Wochen)**
+**Ziele:**
+- Kundenwebseiten schneller umsetzen können  
+- WordPress als System kennenlernen
+
+**Themen & Tools:**
+- Einführung in WordPress
+- Themes & Plugins nutzen
+- Elementor Page Builder  
+- Eigene einfache Website erstellen
+
+**Übungen/Projekte:**
+- Firmenhomepage mit WordPress bauen  
+- Blog oder Portfolio-Seite für sich selbst
+
+---
+
+### **Phase 5: Echte Kundenprojekte & Portfolio (laufend)**
+**Ziele:**
+- Erfahrung sammeln  
+- Projekte für Bekannte oder Testkunden umsetzen  
+- Portfolio erweitern  
+
+**Übungen/Projekte:**
+- 2-3 kostenlose oder günstige Websites für Bekannte bauen  
+- Eigene Portfolio-Website mit Projektübersicht und Kontaktformular  
+- Optional: Instagram-/LinkedIn-Account als Webentwickler starten  
+
+---
+
+## 📚 Material- und Kursideen:
+- **FreeCodeCamp** (kostenlos)  
+- **The Odin Project** (komplett kostenlos)
+- **Traversy Media** (YouTube)
+- **Kevin Powell** (CSS-Profi auf YouTube)
+- **tailwindcss.com/docs** (offizielle Tailwind-Doku)
+
+---
+
+## 📅 Beispiel-Zeitplan (bei 5–10 Stunden pro Woche)
+
+| Woche | Thema                                     | Projekt |
+|:--------|:-------------------------------------------|:----------|
+| 1-2    | HTML & CSS Grundlagen                       | Über-mich-Seite |
+| 3-4    | Flexbox, Grid, Mobile First                 | Landingpage |
+| 5-6    | JavaScript Grundlagen                       | Bildergalerie, Kontaktformular |
+| 7-8    | Tailwind CSS / Bootstrap                    | Portfolio |
+| 9-10   | Formulare, API Einbindung                   | Wetter-App |
+| 11-12  | WordPress Basics, Elementor                  | Firmenhomepage |
+| 13-16  | Kundenprojekte & Portfolio                   | Eigene Webprojekte |
+
+---
+
+## 🎯 Ziel am Ende:
+✅ HTML, CSS, JavaScript sicher beherrschen  
+✅ Mindestens **5 kleine Projekte** im Portfolio  
+✅ Erste bezahlte oder kostenlose Webseiten erstellt  
+✅ Website-Projekte für Kunden anbieten können  
+
+---
+
+Wenn du möchtest, kann ich dir dazu auch ein fertiges PDF oder sogar eine kleine Kursplattform-Struktur bauen — willst du’s eher als Workshop-Serie, 1:1-Coaching oder als Online-Kurs aufziehen?  
+Magst du mir sagen, wie du das für ihn umsetzen willst? Dann passe ich den Plan noch gezielter an!
